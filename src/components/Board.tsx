@@ -1,5 +1,4 @@
 import "../App.css";
-import "../index.css";
 import Square from "./Square";
 import { useState } from "react";
 
